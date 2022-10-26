@@ -1,0 +1,23 @@
+.hw{
+    
+    width: 50%;
+    margin: auto;
+    background-color: blue;
+    color: white;
+}input[type=number]{
+    width: 50px;
+}fieldset{
+    height: 80vh;
+    line-height: 35px;
+    font-size: 20px;
+    
+}.conteiner{
+    display: flex;
+
+}.left{
+    width: 50%;
+    text-align: end;
+}.right{
+    width: 50%;
+  
+}
